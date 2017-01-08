@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Clean Application</string>
+    <string name="fragment_users_msg_loading_users">Loading Users.....</string>
+    <string name="fragment_users_msg_loading_user_details">Loading User Details.....</string>
+    <string name="fragment_user_details_user_id">ID</string>
+    <string name="fragment_user_details_user_name">Name</string>
+    <string name="fragment_user_details_user_type">Type</string>
+    <string name="fragment_user_details_user_system_admin">System Admin</string>
+    <string name="fragment_user_details_user_user">User</string>
+
+</resources>
